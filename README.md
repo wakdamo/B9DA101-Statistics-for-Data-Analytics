@@ -1,4 +1,4 @@
-# B9DA101-Statistics-for-Data-Analytics
+# Statistics-for-Data-Analytics
 B9DA101 Statistics for Data Analytics 
           B9DA101-Statistics for Data Analytics - Assignment 1
 Amol Wakde – 10543430
